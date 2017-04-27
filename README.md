@@ -1,6 +1,6 @@
 # npmdoc-require-uncached
 
-#### api documentation for  [require-uncached (v1.0.3)](https://github.com/sindresorhus/require-uncached#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-require-uncached.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-require-uncached) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-require-uncached.svg)](https://travis-ci.org/npmdoc/node-npmdoc-require-uncached)
+#### basic api documentation for  [require-uncached (v1.0.3)](https://github.com/sindresorhus/require-uncached#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-require-uncached.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-require-uncached) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-require-uncached.svg)](https://travis-ci.org/npmdoc/node-npmdoc-require-uncached)
 
 #### Require a module bypassing the cache
 
@@ -81,7 +81,8 @@
         "rules": {
             "import/no-dynamic-require": "off"
         }
-    }
+    },
+    "bin": {}
 }
 ```
 
